@@ -1,4 +1,4 @@
-'''#1. Print numbers from 1 to 10 using a for loop.
+#1. Print numbers from 1 to 10 using a for loop.
 for i in range(1, 11):
     print(i)
 #2. Print numbers from 10 to 1 using a while loop.
@@ -67,7 +67,7 @@ for i in range(1, n + 1):
 if count == 2:
     print("Prime number")
 else:
-    print("Not a prime number")'''
+    print("Not a prime number")
 
 #10. Print Fibonacci series up to n terms.
 n = int(input("Enter number of terms: "))
